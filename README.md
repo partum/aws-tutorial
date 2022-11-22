@@ -11,3 +11,4 @@ I then created a stage environment so I can develop locally
 
 hosted here: https://main.d2nf1wyv9d346.amplifyapp.com/
 run this to open the dashboard 'amplify console'
+run this to start the app (view it live) 'npm start'

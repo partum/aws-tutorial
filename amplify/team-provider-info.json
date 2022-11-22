@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "awstutorial27b3d7d9": {}
+      },
+      "api": {
+        "awstutorial": {}
       }
     }
   }
